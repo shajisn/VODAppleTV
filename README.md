@@ -1,5 +1,5 @@
-# appletv-boilerplate
-A boilerplate for bootstrapping AppleTV apps using [atvjs](https://github.com/emadalam/atvjs).
+# IPStudio VOD Application for AppleTV
+This application uses TVML and ATVJS
 
 ### Getting Started
 
