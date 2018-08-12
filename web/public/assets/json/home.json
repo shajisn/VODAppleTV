@@ -1,0 +1,55 @@
+{
+    "content": {
+        "rail_list": [
+                      {
+                      "rail_type_name": "Action",
+                      "rail_tile_view_type": "landscape/portrait",
+                      "next_url": "",
+                      "rail_item_count": 1,
+                      "rail_item_url": "/genre-movies?genre=Action"
+                      },
+                      {
+                      "rail_type_name": "Adventure",
+                      "rail_tile_view_type": "landscape/portrait",
+                      "next_url": "",
+                      "rail_item_count": 6,
+                      "rail_item_url": "/genre-movies?genre=Adventure"
+                      },
+                      {
+                      "rail_type_name": "Mystery",
+                      "rail_tile_view_type": "landscape/portrait",
+                      "next_url": "",
+                      "rail_item_count": 1,
+                      "rail_item_url": "/genre-movies?genre=Mystery"
+                      },
+                      {
+                      "rail_type_name": "Fantasy",
+                      "rail_tile_view_type": "landscape/portrait",
+                      "next_url": "",
+                      "rail_item_count": 1,
+                      "rail_item_url": "/genre-movies?genre=Fantasy"
+                      },
+                      {
+                      "rail_type_name": "Drama",
+                      "rail_tile_view_type": "landscape/portrait",
+                      "next_url": "",
+                      "rail_item_count": 4,
+                      "rail_item_url": "/genre-movies?genre=Drama"
+                      },
+                      {
+                      "rail_type_name": "Saga",
+                      "rail_tile_view_type": "landscape/portrait",
+                      "next_url": "",
+                      "rail_item_count": 6,
+                      "rail_item_url": "/genre-movies?genre=Saga"
+                      },
+                      {
+                      "rail_type_name": "Fiction",
+                      "rail_tile_view_type": "landscape/portrait",
+                      "next_url": "",
+                      "rail_item_count": 8,
+                      "rail_item_url": "/genre-movies?genre=Fiction"
+                      }
+                      ]
+    }
+}
